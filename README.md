@@ -5,8 +5,9 @@ Publications associated:
 
 Pre-submission
 
-Adaptive radiation during long-term experimental evolution of the multicellular bacterium, Streptomyces
-John T Munnoch1*, Silja Vahtokari1, Leena Kerr2 & Paul A Hoskisson1*,
+LTEE paper 1
+  Adaptive radiation during long-term experimental evolution of the multicellular bacterium, Streptomyces
+  John T Munnoch1*, Silja Vahtokari1, Leena Kerr2 & Paul A Hoskisson1*,
 
 
 
