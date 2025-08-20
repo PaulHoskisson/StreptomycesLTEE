@@ -9,7 +9,10 @@ Pre-submission
 
 LTEE paper 1
 
+Title:
 Adaptive radiation during long-term experimental evolution of the multicellular bacterium, Streptomyces
+
+Authors:
 John T Munnoch1*, Silja Vahtokari1, Leena Kerr2 & Paul A Hoskisson1*,
 
 
