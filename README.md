@@ -12,9 +12,11 @@ John T Munnoch1*, Silja Vahtokari1, Leena Kerr2 & Paul A Hoskisson1*,
 
 Content:
 
-1 Genome_sequencing_M1152_genome
-2 Population_colony_morphology_and_Diversity_Index
-3 Aggregate_morphology
+1_Genome_sequencing_M1152_genome
+
+2_Population_colony_morphology_and_Diversity_Index
+
+3_Aggregate_morphology
 
 1_Genome_sequencing_M1152_genome:
 
