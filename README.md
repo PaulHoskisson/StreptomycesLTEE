@@ -49,7 +49,11 @@ Figure 2C and 2D Contains raw data, R-scripts and output plots for growth curve 
 
 5_Biolog_populations:
 
-Contains population Biolog data using PM1 plates.  Includes data processing steps (folders 1-4), scripts (4) and final plots (3 and 4) along with utility files (folder a)containing e.g. well position annotations e.g. A1-Negative control.
+Figure 2E Contains population Biolog data using PM1 plates.  Includes data processing steps (folders 1-4), scripts (4) and final plots (3 and 4) along with utility files (folder a)containing e.g. well position annotations e.g. A1-Negative control.
 
 In brief, sample data was taken, M1152 triplicate was averaged and tidy data generated selecting for 48h (01_get_tidy_data_all_samples_M1152_average_48h.py).  Tidy data was generated for the other samples (01_get_tidy_data_all_samples_PM1.py).  Sample CSV files (folder 1), melted data used for plotting (folder 2) and plots (folder 3) for assessing growth curves are available.  BactExtract files (including template) used for uploading and acquiring growthParamter data are available (4_BactExtract) along with R code and plots.
+
+6_Act_assay_results
+
+Figure 2F Contains R scripts, final data and plot of Isolate growth curve Act production.
 
