@@ -24,6 +24,8 @@ Content:
 
 4-Specific_growth_rates_populations_isolates_and_ACT
 
+5_Biolog_populations
+
 ------------------------------------------------------
 
 1_Genome_sequencing_M1152_genome:
@@ -45,7 +47,7 @@ Figure 2A and 2B.  This includes the images including marked area of measurement
 
 Figure 2C and 2D Contains raw data, R-scripts and output plots for growth curve data (generate using Tecan plate reader) for isolate coloneys and populations along with dry weight measurements and Actinorhodin quantification assay results.
 
-5_Biolog_populations
+5_Biolog_populations:
 
 Contains population Biolog data using PM1 plates.  Includes data processing steps (folders 1-4), scripts (4) and final plots (3 and 4) along with utility files (folder a)containing e.g. well position annotations e.g. A1-Negative control.
 
