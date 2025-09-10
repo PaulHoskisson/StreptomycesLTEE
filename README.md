@@ -7,7 +7,7 @@ Publications associated:
 
 Pre-submission
 
-LTEE paper 1
+SLTEE paper 1
 
 Title:
 Adaptive radiation during long-term experimental evolution of the multicellular bacterium, Streptomyces
